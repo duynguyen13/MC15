@@ -1,0 +1,4 @@
+Added Component: Designator=H1(header 24)
+Added Component: Designator=H2(header 24)
+Added Member To Class: ClassName=Y2 Member=Component H1 Header15
+Added Member To Class: ClassName=Y2 Member=Component H2 Header15

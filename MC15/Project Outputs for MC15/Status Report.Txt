@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MC15.PrjPcb]
+   Generated File[Y2.TXT]
+   Generated File[Y2.LDP]
+   Generated File[Y2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 6:18:21 PM On 12/6/2025
