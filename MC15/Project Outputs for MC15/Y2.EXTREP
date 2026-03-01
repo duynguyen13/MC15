@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Y2.GBR   12/6/2025  6:16:27 PM
+Gerber File Extension Report For: Y2.GBR   2/27/2026  9:47:20 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -10,6 +10,8 @@ Layer Extension     Layer Description
 .GTP                Top Paste                               
 .GTS                Top Solder                              
 .GTL                Top Layer                               
+.G1                 Layer 1                                 
+.G2                 Layer 2                                 
 .GBL                Bottom Layer                            
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            

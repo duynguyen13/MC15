@@ -1,17 +1,17 @@
 Board Information Report
 Filename     : D:\WORK\Nhiem_vu\MACH_CK\mc15\MC15\Y2.PcbDoc
-Date         : 1/9/2026
-Time         : 4:10:05 PM
+Date         : 1/16/2026
+Time         : 1:30:19 PM
 Time Elapsed : 00:00:00
 
 General
-    Board Size, 53.467mmx37.6782mm
+    Board Size, 43.435mmx34.7467mm
     Components on board, 51
 count : 2
 
 Routing Information
-    Routing completion, 100.00%
+    Routing completion, 90.54%
     Connections, 222
-    Connections routed, 222
-    Connections remaining, 0
+    Connections routed, 201
+    Connections remaining, 21
 count : 4

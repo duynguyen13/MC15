@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\WORK\Nhiem_vu\MACH_CK\mc15\MC15\Y2.PcbDoc
-Date     : 1/13/2026
-Time     : 8:54:45 PM
+Date     : 2/22/2026
+Time     : 5:45:52 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -15,7 +15,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.508mm) (Max=2.54mm) (Preferred=0.762mm) ((InNet('GND_9V') OR InNet('+5V') OR InNet('+9V')))
+Processing Rule : Width Constraint (Min=0.381mm) (Max=2.54mm) (Preferred=0.762mm) ((InNet('GND_9V') OR InNet('+5V') OR InNet('+9V')))
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=0.254mm) (Max=2.54mm) (Preferred=0.381mm) (All)
