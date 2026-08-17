@@ -1,7 +1,7 @@
 Board Information Report
 Filename     : D:\WORK\Nhiem_vu\MACH_CK\mc15\MC15\Y2.PcbDoc
-Date         : 1/16/2026
-Time         : 1:30:19 PM
+Date         : 3/4/2026
+Time         : 11:25:39 PM
 Time Elapsed : 00:00:00
 
 General
@@ -10,8 +10,33 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 90.54%
+    Routing completion, 100.00%
     Connections, 222
-    Connections routed, 201
-    Connections remaining, 21
+    Connections routed, 222
+    Connections remaining, 0
 count : 4
+
+Via Solder Mask, Count
+    0.1016mm, 113
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    0.508mm, 113
+count : 1
+
+Track Width, Count
+    0.05mm, 100
+    0.1mm, 153
+    0.127mm, 35
+    0.15mm, 60
+    0.2mm, 129
+    0.254mm, 349
+    0.3048mm, 11
+    0.381mm, 601
+    0.508mm, 224
+    0.762mm, 2
+count : 10
+
+Net Via Size, Count
+    0.6mm, 77
+count : 1

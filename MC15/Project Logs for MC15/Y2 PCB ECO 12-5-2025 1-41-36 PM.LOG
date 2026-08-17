@@ -1,6 +1,0 @@
-Added Pin To Net: NetName=GND_9V Pin=H1-1
-Added Pin To Net: NetName=GND_9V Pin=H1-2
-Added Pin To Net: NetName=+9V Pin=H2-23
-Added Pin To Net: NetName=+9V Pin=H2-24
-Change Net Name : Old Net Name=+9V New Net Name=2_47
-Change Net Name : Old Net Name=GND_9V New Net Name=2_1
